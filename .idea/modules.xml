@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Boqi.iml" filepath="$PROJECT_DIR$/Boqi.iml" />
       <module fileurl="file://$PROJECT_DIR$/boqi_pet/app.iml" filepath="$PROJECT_DIR$/boqi_pet/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boqi_pet/boqi_pet.iml" filepath="$PROJECT_DIR$/boqi_pet/boqi_pet.iml" />
     </modules>
   </component>
 </project>
